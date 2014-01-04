@@ -1,4 +1,6 @@
-fpga-sdr-platform
-=================
+FPGA based SDR platform
 
-AD9963 + XC6SLX9 + CY7C68013
+Codec: AD9963
+FPGA: Spartan 6 LX9, clock 48MHz
+Host interface: USB 2.0, CY7C68013A in FIFO mode, clock 24MHz
+
